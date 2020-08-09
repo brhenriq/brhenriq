@@ -1,7 +1,7 @@
 # Bruno Santos
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por programação.
 3º ano de Sistemas de Informação, estudando para me tornar desenvolvedor FullStack :computer:
 
  :dart:  &nbsp; Atualmente busco uma nova oportunidade no mercado de Trabalho
