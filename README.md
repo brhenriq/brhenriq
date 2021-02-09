@@ -10,14 +10,9 @@ I'm passionate about programming. 4th year of Information Systems, studying to b
 - [Website](https://) 💻 - Under development.
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=brhenriq&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=brhenriq&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhenriq&count_private=true&theme=dracula">
+</p>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brhenriq)](https://github.com/brhenriq)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-henrique-pereira-dos-santos-880561163/)](https://www.linkedin.com/in/bruno-henrique-pereira-dos-santos-880561163/)
-</p>
